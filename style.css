@@ -1,0 +1,33 @@
+body {
+    background-color: aqua;
+}
+h1 {
+    font-style: oblique;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-style: oblique;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+b {
+    color:red;
+    font-style: oblique;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+li {
+    font-style: italic;
+    color:lightskyblue;
+    font-weight: lighter;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+a {
+    text-decoration: none;
+    font-style: italic;
+    color:lightskyblue;
+    font-weight: lighter;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
